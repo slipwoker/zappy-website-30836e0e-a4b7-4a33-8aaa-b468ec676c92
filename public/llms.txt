@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-30836e0e.zappy5.app
+https://example.com
 מתחשק לכם סינבון ביתי להזמנה עם מילוי עשיר וציפוי קרמי? שביט הטבחית אופה באהבה מאפים טריים ומפנקים שישדרגו כל אירוע. הזמינו עכשיו ותיהנו ממתיקות שאי אפשר לעמוד בפניה.
 
 ### אודות
-https://-30836e0e.zappy5.app/about
+https://example.com/about
 שביט הטבחית מביאה אהבה אמיתית לכל רול קינמון. גלו את הסיפור שמאחורי המאפים הביתיים להזמנה – מבצק נימוח ועד מילוי מושחת, הכול נעשה בעבודת יד קפדנית. בואו לטעום את התשוקה.
 
 ### גלריה
-https://-30836e0e.zappy5.app/gallery
+https://example.com/gallery
 דפדפו בגלריה מעוררת תיאבון של סינבון טרי עם מילוי ומאפים ביתיים להזמנה. כל תמונה מספרת סיפור של מתיקות מושלמת – התכוננו להתמכר ולדמיין את הקינוח הבא שלכם על השולחן.
 
 ### צור קשר
-https://-30836e0e.zappy5.app/contact
+https://example.com/contact
 מוכנים להתפנק? צרו קשר עם שביט הטבחית להזמנת סינבון ביתי להזמנה, מאפים טריים וקינוחים מושחתים. השאירו פרטים ונתאים לכם פינוק מתוק שיהפוך כל יום לחגיגה של טעמים.
 
 ### Products
-https://-30836e0e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שביט הטבחית
 
 ### Cart
-https://-30836e0e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-30836e0e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-30836e0e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-30836e0e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-30836e0e.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-30836e0e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שביט הטבחית
 
 ### Category
-https://-30836e0e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שביט הטבחית
 
 ### תודה שפנית אלינו
-https://-30836e0e.zappy5.app/thank-you
+https://example.com/thank-you
 שביט הטבחית - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-30836e0e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-30836e0e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-30836e0e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Food & Beverage / Home Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-30836e0e.zappy5.app/sitemap.xml
-- Robots: https://-30836e0e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-30836e0e.zappy5.app/llms-full.txt
-- Products (JSON): https://-30836e0e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-30836e0e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
