@@ -1,0 +1,104 @@
+# שביט הטבחית — Generative Engine Optimization Map
+
+> A home-based bakery specializing in handmade cinnamon rolls (Cinnabon-style) available in a variety of flavors. The brand has a warm, indulgent, and artisanal feel — emphasizing homemade quality and mouth-watering visual appeal. The website should feel delicious, visually rich, and inviting, with beautiful food photography and attractive design to entice customers to order.
+
+---
+
+## Pages
+
+### בית
+https://-30836e0e.zappy5.app
+מתחשק לכם סינבון ביתי להזמנה עם מילוי עשיר וציפוי קרמי? שביט הטבחית אופה באהבה מאפים טריים ומפנקים שישדרגו כל אירוע. הזמינו עכשיו ותיהנו ממתיקות שאי אפשר לעמוד בפניה.
+
+### אודות
+https://-30836e0e.zappy5.app/about
+שביט הטבחית מביאה אהבה אמיתית לכל רול קינמון. גלו את הסיפור שמאחורי המאפים הביתיים להזמנה – מבצק נימוח ועד מילוי מושחת, הכול נעשה בעבודת יד קפדנית. בואו לטעום את התשוקה.
+
+### גלריה
+https://-30836e0e.zappy5.app/gallery
+דפדפו בגלריה מעוררת תיאבון של סינבון טרי עם מילוי ומאפים ביתיים להזמנה. כל תמונה מספרת סיפור של מתיקות מושלמת – התכוננו להתמכר ולדמיין את הקינוח הבא שלכם על השולחן.
+
+### צור קשר
+https://-30836e0e.zappy5.app/contact
+מוכנים להתפנק? צרו קשר עם שביט הטבחית להזמנת סינבון ביתי להזמנה, מאפים טריים וקינוחים מושחתים. השאירו פרטים ונתאים לכם פינוק מתוק שיהפוך כל יום לחגיגה של טעמים.
+
+### Products
+https://-30836e0e.zappy5.app/products
+המוצרים שלנו - שביט הטבחית
+
+### Cart
+https://-30836e0e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-30836e0e.zappy5.app/checkout
+תשלום
+
+### Login
+https://-30836e0e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-30836e0e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-30836e0e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-30836e0e.zappy5.app/product/:slug
+פרטי המוצר - שביט הטבחית
+
+### Category
+https://-30836e0e.zappy5.app/category/:slug
+מוצרים - שביט הטבחית
+
+### תודה שפנית אלינו
+https://-30836e0e.zappy5.app/thank-you
+שביט הטבחית - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-30836e0e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-30836e0e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-30836e0e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שביט הטבחית
+A home-based bakery specializing in handmade cinnamon rolls (Cinnabon-style) available in a variety of flavors. The brand has a warm, indulgent, and artisanal feel — emphasizing homemade quality and mouth-watering visual appeal. The website should feel delicious, visually rich, and inviting, with beautiful food photography and attractive design to entice customers to order.
+
+## Target Audience
+- מקצוענים צעירים חובבי מתוקים
+- מארגני מפגשי משפחה
+- חובבי בתי קפה ובראנץ'
+
+## Industry
+Food & Beverage / Home Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-30836e0e.zappy5.app/sitemap.xml
+- Robots: https://-30836e0e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-30836e0e.zappy5.app/llms-full.txt
+- Products (JSON): https://-30836e0e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-30836e0e.zappy5.app/product-feed.xml
